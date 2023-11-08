@@ -11,6 +11,7 @@
 		1625B2E92AFB38C800397DDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1625B2E82AFB38C800397DDE /* ContentView.swift */; };
 		1625B2EB2AFB38C900397DDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1625B2EA2AFB38C900397DDE /* Assets.xcassets */; };
 		1625B2EE2AFB38C900397DDE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1625B2ED2AFB38C900397DDE /* Preview Assets.xcassets */; };
+		1625B2F52AFB3A2900397DDE /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1625B2F42AFB3A2900397DDE /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1625B2E82AFB38C800397DDE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1625B2EA2AFB38C900397DDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1625B2ED2AFB38C900397DDE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1625B2F42AFB3A2900397DDE /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1625B2E62AFB38C800397DDE /* Learning_with_CWCApp.swift */,
 				1625B2E82AFB38C800397DDE /* ContentView.swift */,
+				1625B2F42AFB3A2900397DDE /* SecondView.swift */,
 				1625B2EA2AFB38C900397DDE /* Assets.xcassets */,
 				1625B2EC2AFB38C900397DDE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1625B2F52AFB3A2900397DDE /* SecondView.swift in Sources */,
 				1625B2E92AFB38C800397DDE /* ContentView.swift in Sources */,
 				1625B2E72AFB38C800397DDE /* Learning_with_CWCApp.swift in Sources */,
 			);
