@@ -15,6 +15,7 @@ struct SecondView: View {
             Text("This is Second View")
                 .font(.largeTitle)
                 .bold()
+            Text("This is the text that is edited on github site")
         }
     }
 }
